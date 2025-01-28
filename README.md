@@ -1,6 +1,6 @@
 ## Hello there! 👋
 I'm [VIBHAV KHARE], a passionate Data Analyst with expertise in:
-- HTML, CSS, Java
+- HTML, CSS, Figma
 - Python, SQL, MySQL
 - Excel, Google Sheets
 - Power BI, Tableau
