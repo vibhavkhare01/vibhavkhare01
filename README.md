@@ -2,16 +2,16 @@
 I'm **[VIBHAV KHARE]**, a passionate Data Analyst with expertise in:
 
 ### 💻 Technical Skills & Tools
-- <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> HTML
-- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"> CSS
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"> Java
+- <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"> 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"> Python
-- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="30"> SQL
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"> MySQL
-- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" height="30"> Power BI
-- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"> Tableau
-- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" height="30"> Excel
-- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="30"> Google Sheets
+- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" height="30"> 
+- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="30"> 
 
 - ![Data](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
