@@ -1,5 +1,7 @@
  ## Hello there! 👋
 I'm **[VIBHAV KHARE]**, a passionate Data Analyst with expertise in:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhavkhare01&label=Profile%20views&color=0e75b6&style=flat" alt="vibhavkhare01" /> </p>
+
 
 ### 💻 Technical Skills & Tools
 - <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
@@ -32,6 +34,7 @@ Connect with me on:
 - **[Project B](link)**: Description of this project, what you accomplished, and the impact.
 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhavkhare01" alt="vibhavkhare01" /></a> </p>
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhavkhare01&show_icons=true&theme=radical)
