@@ -1,8 +1,9 @@
- ## Hello there! 👋
-I'm **[VIBHAV KHARE]**, a passionate Data Analyst with expertise in:
+ # Hello there! 👋
+<h1 align="center"> I'm VIBHAV KHARE </h1> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhavkhare01&label=Profile%20views&color=0e75b6&style=flat" alt="vibhavkhare01" /> </p>
 
-
+## expertise in:
 ### 💻 Technical Skills & Tools
 - <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
 - <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"> 
