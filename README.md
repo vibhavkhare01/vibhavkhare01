@@ -42,6 +42,11 @@ Connect with me on:
 
 ---
 
+## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=octocat&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 📈 GitHub Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavkhare01&langs_count=5&layout=compact&theme=radical)
 
