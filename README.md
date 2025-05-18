@@ -30,9 +30,6 @@ Connect with me on:
 
 ---
 
-## 💼 Projects
-- **[Project A](link)**: Description of what this project does, technologies used, and your role.
-- **[Project B](link)**: Description of this project, what you accomplished, and the impact.
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhavkhare01" alt="vibhavkhare01" /></a> </p>
