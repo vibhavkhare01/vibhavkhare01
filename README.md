@@ -47,6 +47,10 @@ Connect with me on:
 ### 📈 GitHub Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavkhare01&langs_count=5&layout=compact&theme=radical)
 
+
+
+[![Hits](https://u8views.com/api/v1/github/profiles/vibhavkhare01/views/day-week-month-total-count.svg)](https://u8views.com/github/vibhavkhare01) 
+
 ---
 
 Feel free to explore my repositories and collaborate with me on exciting data-driven projects!
